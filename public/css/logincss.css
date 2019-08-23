@@ -1,0 +1,16 @@
+h1{
+	font-size: 50px;
+}
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	box-sizing: border-box;
+	background-image: url(https://images.app.goo.gl/B4B1xyR7rmRiJVuL8);
+}
+input{
+	padding: 8px;
+	width: 20%
+	margin: 5px 0 22px 0;
+}
+form {
+	
+}
